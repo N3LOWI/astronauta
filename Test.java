@@ -60,6 +60,7 @@ public class Test {
                         case 6: pesofinal = (masaD*(10.44)); System.out.println(masaD+"kg pesan "+pesofinal+"N en Saturnoo"); break;
                         case 7: pesofinal = (masaD*(8.87)); System.out.println(masaD+"kg pesan "+pesofinal+"N en Urano"); break;
                         case 8: pesofinal = (masaD*(11.15)); System.out.println(masaD+"kg pesan "+pesofinal+"N en Neptuno"); break;
+                        case 9: pesofinal = (masaD*(1,62)); System.out.println(masaD+"kg pesan "+pesofinal+"N en la Luna"); break;
                         default: System.out.println("Error 1");
                     } 
                     
